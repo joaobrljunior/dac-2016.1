@@ -1,4 +1,6 @@
-RELAÇÃO DOS ALUNOS:
+﻿RELAÇÃO DOS ALUNOS:
 
             Nome                              Matrícula
 --------------------------------------- | -----------------
+Guilherme Luiz da Silva			    1-2013107104
+ewerton da silva dos santos                 1-2014110002
