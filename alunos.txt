@@ -1,4 +1,5 @@
-RELAÇÃO DOS ALUNOS:
+﻿RELAÇÃO DOS ALUNOS:
 
-            Nome                              Matrícula
---------------------------------------- | -----------------
+            Nome                             Matrícula
+--------------------------------- | ----------------------------
+    RENATO ALMEIDA DE SOUSA                2013208598
