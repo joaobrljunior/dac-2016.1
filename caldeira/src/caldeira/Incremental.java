@@ -1,0 +1,31 @@
+package caldeira;
+public class Incremental {
+    public static Incremental instanciaUnica;
+    private static int count = 0;
+    private int numero;
+    
+    public Incremental() {
+        numero = ++count;
+    }
+    
+    public static Incremental getInstance(){
+        if(instanciaUnica ==null){
+            instanciaUnica= new Incremental();
+        }
+        return instanciaUnica;
+    }
+    
+    public String toString() {
+        return "Incremental " + numero;
+    }
+}
+/*
+public class HelloWorld {
+    
+    public static void main(String[] args) {
+        for (int i = 0; i < 10; i++) {
+            Incremental inc = Incremental.getInstance();
+            System.out.println(inc);
+        }
+    }
+}*/
