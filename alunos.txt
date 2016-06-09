@@ -1,4 +1,10 @@
-RELAÇÃO DOS ALUNOS:
+﻿RELAÇÃO DOS ALUNOS:
+
+
 
             Nome                              Matrícula
+
 --------------------------------------- | -----------------
+
+
+Lilian C S Vasconcelos 			|    1-2014110003
